@@ -8,7 +8,7 @@ Vim是从vi发展出来的一个文本编辑器。代码补全、编译及错误
 
 
 
-![](/Users/boycezhang/Documents/GitHub/myITworld/Linux/image/vim-key.png)
+![](https://github.com/kazeni/myITworld/blob/main/Linux/image/vim-key.png)
 
 
 
